@@ -1,0 +1,24 @@
+{
+  "carros": [
+    {
+      "id": 3,
+      "titulo": "Volkswagen Fusca",
+      "preco": "189.999,98",
+      "descricao": "Lendário",
+      "validade": "1932-03-12",
+      "isChecked": true,
+      "image": "https://nuhtaradahab.files.wordpress.com/2011/07/3585b-fusca2bpodre2be2benferrujado.jpg",
+      "opcaoSelecionada": "Disponivel"
+    },
+    {
+      "id": 4,
+      "titulo": "Mil Mi-28 Havoc",
+      "preco": "\t120.000.000.00",
+      "descricao": "Helicóptero de Ataque",
+      "validade": "2019-05-06",
+      "isChecked": true,
+      "image": "https://aerocorner.com/wp-content/uploads/1954.jpg",
+      "opcaoSelecionada": "Reservado"
+    }
+  ]
+}
